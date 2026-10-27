@@ -2,7 +2,7 @@
 demo for git and github class.
 
 # teacher
-shradha mam
+shradha mam for web dev 
 
 # student 
-gagan 
+gagan sharma 
